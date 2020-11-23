@@ -14,9 +14,9 @@ Based on the statistics data we have obtained for June and December we can infer
    
 Observe the below images of temperature stats data for June and December.
 
-![Temperature June](//Temp_june.png)
+![Temperature June](Images/Temp_june.png)
 
-![Temperature December](//Temp_Dec.png)
+![Temperature December](Images/Temp_Dec.png)
 
 ## Summary 
 
@@ -27,7 +27,7 @@ Observe the below images of temperature stats data for June and December.
 Additionally, to gather more information about the weather data we have plotted the average temperature in December and June by year.
 
 
-![June temp. plot](//June_temp_plot.png)
+![June temp. plot](Images/June_temp_plot.png)
 
-![December temp. plot](//Dec_temp_plot.png)
+![December temp. plot](Images/Dec_temp_plot.png)
 
